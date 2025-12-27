@@ -1,6 +1,6 @@
 ### Hi there, I'm Ankit 👋
 
-I'm a Software Developer based in **Toronto** with a passion for Python, Data Science, and AI. I enjoy building tools that solve real-world problems, from data scoring engines to content generation.
+I'm a Software Developer with a passion for Python, Data Science, and AI. I enjoy building tools that solve real-world problems, from data scoring engines to content generation.
 
 - 🔭 I’m currently working on an **Amazon Review Intelligence Dashboard** using NLP and PyTorch.
 - 👯 I’m looking to collaborate on open-source Python and ML projects.
